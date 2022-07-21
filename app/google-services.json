@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "81901759267",
+    "project_id": "pushnotifications-22312",
+    "storage_bucket": "pushnotifications-22312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81901759267:android:8a3319192c1453cbf03a96",
+        "android_client_info": {
+          "package_name": "com.azry.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81901759267-v5jap1ei1mb0vgbjce4nr65ehuc3mecj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqv18SetlsMWTMaZg6BufaugIFUSUM66g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81901759267-v5jap1ei1mb0vgbjce4nr65ehuc3mecj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81901759267:android:a673ff95fb34e698f03a96",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81901759267-v5jap1ei1mb0vgbjce4nr65ehuc3mecj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqv18SetlsMWTMaZg6BufaugIFUSUM66g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81901759267-v5jap1ei1mb0vgbjce4nr65ehuc3mecj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81901759267:android:6c25f68195262b0ef03a96",
+        "android_client_info": {
+          "package_name": "com.example.pushnotificationssender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81901759267-v5jap1ei1mb0vgbjce4nr65ehuc3mecj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqv18SetlsMWTMaZg6BufaugIFUSUM66g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81901759267-v5jap1ei1mb0vgbjce4nr65ehuc3mecj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
